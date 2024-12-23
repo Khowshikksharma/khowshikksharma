@@ -1,42 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=${khowshikksharma}.${khowshikksharma}&left_color=red&right_color=green&left_text=Hello%20Visitors" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=750&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Khowshikk+Sharma!;I+am+currently+pursuing;my+B.tech+degree+in+K+L+University;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Software Devloper from India</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning Jenkins, Docker, firebase, AWS.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+💬 Ask me about **Node.js, React, Operating Systems... or anything [here](#)**
+</div>
+<div align="center">  
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up?</h2>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I'm Sripada. V J S N S L P. Khowshikk Sharma, a 20-year-old passionate learner and tech enthusiast. <br/>I scored 67% in my 10th, 83% in my 12th, and I'm currently pursuing my B.Tech degree at K L University with an impressive CGPA of 9.59. Always excited to connect and explore new opportunities!</p>
 
 ###
 
@@ -44,16 +30,22 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+• ✨ Outgoing and ambitious B.Tech graduate with a passion for technology and innovation. <br/>
+• 🎯 Aiming to secure a position in a progressive organization to enhance technical expertise. <br/>
+• 📚 Driven to learn, grow, and apply skills to impactful projects that create value. <br/>
+• Enthusiastic about exploring innovative solutions and solving real-world challenges. <br/>
+• 🎲 Skilled in designing, developing, and implementing efficient and user-friendly applications. <br/>
+• Committed to staying updated with the evolving tech landscape and cutting-edge technologies. <br/>
+</p>
 
 ###
 
-<h2 align="left">I code with tools and program languages are</h2>
+<h2 align="left">I am skilled in coding with various tools and enthusiastic about continuous learning.</h2>
 
 ###
 
-<br clear="both">
-
+<h3 align="left">🛠 Programming Languages</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="15" />
@@ -73,7 +65,12 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudiologo"  />
+</div>
+  
+
+<h3 align="left">🛠 Frontend Devlopment</h3>
+<div align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudiologo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="15" />
@@ -83,6 +80,12 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
   <img width="15" />
+</div>
+
+ 
+
+<h3 align="left">🛠 Backend Devlopment</h3>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
@@ -117,6 +120,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" height="30" alt="ie10 logo"  />
   <img width="15" />
+
+</div>
+
+  
+<h3 align="left">🛠 Database</h3>
+
+<div aligh="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -145,6 +155,11 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
   <img width="15" />
+</div>
+  
+
+<h3 align="left">🛠 DevOps & Testing</h3>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
@@ -164,41 +179,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khowshikksharma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khowshikksharma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=true&order=2" height="" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Khowshikksharma&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=10&order=3" height="190" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Khowshikksharma&theme=onedark&column=-1&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khowshikksharma&radius=15&theme=one-dark&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
+<h3 align="left">🛠 Other</h3>
 <div align="left">
-  <a href="https://open.spotify.com/user/khowshikk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=khowshikk&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rect/rect-original.svg" height="30" alt="rect logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="30" alt="ssh logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&theme=dark&username=@https://www.linkedin.com/in/s-v-j-s-n-s-l-pkhowshikk-sharma-6a9337255" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<img align="right" height="145" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -217,25 +219,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<img align="right" height="140" width="250" src="https://img.freepik.com/premium-vector/programmer-is-focused-coding-laptop-with-books-charts-around-bright-workspace-man-with-laptop-synchronizing-big-data_538213-145781.jpg"  />
 
 ###
 
@@ -243,7 +227,7 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />  
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
@@ -252,82 +236,60 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<br clear="both">
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 <img src="https://raw.githubusercontent.com/Khowshikksharma/Khowshikksharma/output/snake.svg" alt="Snake animation" />
 
 ###
 
-
-
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=${khowshikksharma}.${khowshikksharma}&text=Hello%20Visitors" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<h2 align="left">About me - Technicaly 👩‍💻</h2>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<p align="left">
+
+💻 Technical Interests - <br/>
+Full Stack Development, Application Development, and Information Technology. <br/>
+Proficient in programming languages like C, Java, and Python, and experienced with frameworks such as Django, React JS, Express JS, Node JS, and MongoDB. <br/>
+Always exploring new tools and methodologies to keep up with the evolving tech landscape. <br/>
+
+📚 Certifications - <br/>
+AWS Certified Cloud Practitioner, Prompt Design in Vertex AI, Data Visualization with Python (Coursera), and Red Hat Certified Enterprise Application Developer. <br/>
+These certifications reflect my dedication to learning and excelling in cloud computing, AI, and application development.
+
+💼 Internships - <br/>
+• AICTE AWS AIML Virtual Internship (Cohort-07) - Gained insights into AI and machine learning (Dec 2023 – Feb 2024). <br/>
+• Prodigy and SkillCraft Internship - Worked on web development using HTML5, CSS3, and JavaScript (May 2024 – June 2024). <br/>
+• Hackathon Project - Focused on Python Django Full Stack Development, UI Interfacing, PostgreSQL integration, and GitHub deployment (July 2023 – Nov 2023). <br/>
+
+🛠️ Projects - <br/>
+• Online Food Ordering System: Developed using Python Django, PostgreSQL, HTML, and CSS. <br/>
+• Student Course Management System: Built using the MERN stack, including MongoDB, Express.js, React.js, Node.js, and front-end technologies like HTML and CSS. <br/>
+
+🌱 Passion for Growth - Continuously learning, collaborating with like-minded individuals, and contributing to impactful projects in the tech industry.
+
+</p>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
