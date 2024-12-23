@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">I am skilled in coding with various tools and enthusiastic about continuous learning.</h2>
+<h2 align="left">Knowledge in Coding with Various Tools ....</h2>
 
 ###
 
