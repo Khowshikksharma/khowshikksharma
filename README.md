@@ -227,12 +227,6 @@
 <h2 align="left">My Git Status....</h2>
 
 <div align="center">
-  <h3 align="left">Git Calendar</h3>
-  <img src="https://raw.githubusercontent.com/Khowshikksharma/Khowshikksharma/output/snake.svg" alt="Snake animation" />
-  <br/>
-  <h3 align="left">Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khowshikksharma&radius=15&theme=one-dark&area=true&order=5&hide_border=true&custom_title=Khowshikk Sharma Working Graph" height="300" alt="activity-graph graph"  />
-  <br/>
   <h3 align="left">Profile Trophy</h3>
   <img src="https://github-profile-trophy.vercel.app?username=Khowshikksharma&theme=onedark&column=-1&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
