@@ -116,16 +116,6 @@
 
 ###
 
-<h2 align="left"></h2>
-<h2 align="left">Stats in Most Used Languages....</h2>
-
-###
-
-<img align="right" height="140" width="250" src="https://img.freepik.com/premium-vector/programmer-is-focused-coding-laptop-with-books-charts-around-bright-workspace-man-with-laptop-synchronizing-big-data_538213-145781.jpg"  />
-
-###
-
-<h2 align="left">My Git Status....</h2>
 
 <div align="center">
   <h3 align="left">Profile Trophy</h3>
