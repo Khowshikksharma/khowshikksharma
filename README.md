@@ -141,10 +141,6 @@ Full Stack Development, Application Development, and Information Technology. <br
 Proficient in programming languages like C, Java, and Python, and experienced with frameworks such as Django, React JS, Express JS, Node JS, and MongoDB. <br/>
 Always exploring new tools and methodologies to keep up with the evolving tech landscape. <br/>
 
-📚 Certifications - <br/>
-AWS Certified Cloud Practitioner, Prompt Design in Vertex AI, Data Visualization with Python (Coursera), and Red Hat Certified Enterprise Application Developer. <br/>
-These certifications reflect my dedication to learning and excelling in cloud computing, AI, and application development.
-
 💼 Internships - <br/>
 • AICTE AWS AIML Virtual Internship (Cohort-07) - Gained insights into AI and machine learning (Dec 2023 – Feb 2024). <br/>
 • Prodigy and SkillCraft Internship - Worked on web development using HTML5, CSS3, and JavaScript (May 2024 – June 2024). <br/>
